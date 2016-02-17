@@ -1,2 +1,2 @@
 # Java-Game---War
-Server-Client Java Aplication
+Server-Client War Game made in Java
